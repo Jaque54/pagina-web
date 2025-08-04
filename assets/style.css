@@ -4,7 +4,8 @@ font-family: Bai jamjuree;
 }
 
 #container{
-    display: flex;
+    display: flex;/* Elementos dispostos em linha */
+}
 }
 
 .cartao{
