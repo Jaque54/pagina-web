@@ -1,2 +1,0 @@
-mv bg-desktop.webp bg-mobile.webp bg-tablet.webp img/
-git push
