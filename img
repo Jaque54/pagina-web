@@ -1,3 +1,2 @@
-git add img/mv bg-desktop.webp bg-mobile.webp bg-tablet.webp img/
-git commit -m "Adiciona imagem na pasta img"
+mv bg-desktop.webp bg-mobile.webp bg-tablet.webp img/
 git push
