@@ -1,4 +1,0 @@
-git add img/
-git rm bg-desktop.webp bg-mobile.webp bg-tablet.webp
-git commit -m "Move imagens para a pasta img"
-git push
